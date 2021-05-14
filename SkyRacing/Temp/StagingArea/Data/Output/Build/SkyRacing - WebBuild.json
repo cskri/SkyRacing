@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "SkyRacing",
+"productVersion": "0.1",
+"dataUrl": "SkyRacing - WebBuild.data.unityweb",
+"wasmCodeUrl": "SkyRacing - WebBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "SkyRacing - WebBuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.19f1"
+}
